@@ -2,6 +2,7 @@
 <p align=left>Hello im Kazuji Takahashi, i'm still learning pawn <p>
 
 :page_with_curl: I'm currently learning
+
 [![Pawn](https://img.shields.io/badge/Pawn-samp)](https://sa-mp.co.id/)
 [![Lua](https://img.shields.io/badge/Lua-Fivem)](https://fivem.net/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
