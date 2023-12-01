@@ -11,7 +11,7 @@ List Of My Project And Not Finished
 - Replica Jogjagamers => not finished
 - Replica DayZ Remastered => not finished
 - Replica Lunar Pride => not finished
-- Replica Revitalize => not finished
+- Replica Ultimate Island Freeroam => not finished
 - Replica Revitalize Police Pursuit => not finished
 - Replica State Of Decay Alias SOD SAMP => not finished
 - Replica Arivena Theater v2.9.5c => not finished
