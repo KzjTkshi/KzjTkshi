@@ -1,5 +1,3 @@
-<body>
-
 <a href=https://github.com/KzjTkshi/KzjTkshi><img src="./Kazujieh.png" align=center></img></a>
 <p align=left>Hello im Kazuji, i'm from East Java, and i'm newbie developer <p>
 
