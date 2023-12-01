@@ -4,8 +4,8 @@
 :page_with_curl: I'm currently learning
 
 [![Pawn](https://img.shields.io/badge/PAWN-Badge)](https://sa-mp.co.id/)
-[![Lua](https://img.shields.io/badge/LUA-Badge)](https://fivem.net/)
-[![Java](https://img.shields.io/badge/JAVA-Badge)](https://www.java.com/)
+[![Lua](https://img.shields.io/badge/LUA-Badge)](https://docs.fivem.net/scripting-manual/runtimes/lua)
+[![Java](https://img.shields.io/badge/JAVA-Badge)](https://www.java.com/) 
 
 List Of My Project And Not Finished
 - Replica Jogjagamers => not finished
