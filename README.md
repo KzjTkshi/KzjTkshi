@@ -3,8 +3,8 @@
 
 :page_with_curl: I'm currently learning
 
-[![Pawn](https://img.shields.io/badge/Pawn-samp)](https://sa-mp.co.id/)
-[![Lua](https://img.shields.io/badge/Lua-Fivem)](https://fivem.net/)
+[![Pawn](https://img.shields.io/badge/PAWN-Badge)](https://sa-mp.co.id/)
+[![Lua](https://img.shields.io/badge/LUA-Badge)](https://fivem.net/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 List Of My Project And Not Finished
