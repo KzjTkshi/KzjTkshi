@@ -1,5 +1,5 @@
 <a href=https://github.com/KzjTkshi/KzjTkshi><img src="./Kazujieh.png" align=center></img></a>
-<p align=left>Hello im Kazuji, i'm from East Java, and i'm newbie developer <p>
+<p align=left>Hello im Kazuji Takahashi, i'm still learning pawn <p>
 
 :page_with_curl: I'm currently learning
 [![SAMP LEARNING](https://img.shields.io/badge/SAMP-Learning)](https://sa-mp.co.id/)
