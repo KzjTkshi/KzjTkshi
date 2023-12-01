@@ -16,6 +16,10 @@ List Of My Project And Not Finished
 - Replica State Of Decay Alias SOD SAMP => not finished
 - Replica Arivena Theater v2.9.5c => not finished
 - Replica Orang Tua Roleplay => not finished
+- SAMP Saurce Code => not finished
+- MTA Horror Gamemode => not finished
+# These are just some of my failed projects, there are more than this!
+
 
 |                                                                                       Stats                                                                                                              |                                                                                       Streaks                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
