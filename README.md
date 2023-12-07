@@ -7,20 +7,6 @@
 [![Lua](https://img.shields.io/badge/LUA-Badge)](https://docs.fivem.net/scripting-manual/runtimes/lua)
 [![Java](https://img.shields.io/badge/JAVA-Badge)](https://www.java.com/) 
 
-List Of My Project And Not Finished
-- Replica Jogjagamers => not finished
-- Replica DayZ Remastered => not finished
-- Replica Lunar Pride => not finished
-- Replica Ultimate Island Freeroam => not finished
-- Replica Revitalize Police Pursuit => not finished
-- Replica State Of Decay Alias SOD SAMP => not finished
-- Replica Arivena Theater v2.9.5c => not finished
-- Replica Orang Tua Roleplay => not finished
-- SAMP Saurce Code => not finished
-- MTA Horror Gamemode => not finished
-# These are just some of my failed projects, there are more than this!
-
-
 |                                                                                       Stats                                                                                                              |                                                                                       Streaks                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Kazuji Takahashi Github Stats](https://github-readme-stats.vercel.app/api?username=KzjTkshi&show_icons=true&title_color=76F1EE&icon_color=76F1FE&text_color=000000&bg_color=FFFFFF)](https://github.com/KzjTkshi) | [![Kazuji Takahashi Github Streak](http://github-readme-streak-stats.herokuapp.com?user=KzjTkshi&theme=white&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://github.com/KzjTkshi) |
